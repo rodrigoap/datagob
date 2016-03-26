@@ -1,0 +1,124 @@
+[ {
+  "name" : "Casanova_Ferro_Gonzalo",
+  "imports" : [ "Szewczuk_Fabian" ]
+}, {
+  "name" : "Szewczuk_Fabian",
+  "imports" : [ ]
+}, {
+  "name" : "Arias_Duval_Martin_Augusto",
+  "imports" : [ "Arias_Duval_Martin_Augusto" ]
+}, {
+  "name" : "Bertoni_Ramiro_Luis",
+  "imports" : [ "Dumas_Juan" ]
+}, {
+  "name" : "Dumas_Juan",
+  "imports" : [ ]
+}, {
+  "name" : "Baratta_Roberto",
+  "imports" : [ "Koronelli_Victor", "Kicillof_Axel", "Buzzi_Martin" ]
+}, {
+  "name" : "Koronelli_Victor",
+  "imports" : [ ]
+}, {
+  "name" : "Kicillof_Axel",
+  "imports" : [ ]
+}, {
+  "name" : "Buzzi_Martin",
+  "imports" : [ ]
+}, {
+  "name" : "Meyer_Carlos_Enrique",
+  "imports" : [ "Del_Pino_Alberto", "Ubeira_Jose_Manuel", "Giobellina_Sebastian" ]
+}, {
+  "name" : "Del_Pino_Alberto",
+  "imports" : [ ]
+}, {
+  "name" : "Ubeira_Jose_Manuel",
+  "imports" : [ ]
+}, {
+  "name" : "Giobellina_Sebastian",
+  "imports" : [ ]
+}, {
+  "name" : "Kicillof_Axel",
+  "imports" : [ "Koronelli_Victor", "Pereyra_Julio" ]
+}, {
+  "name" : "Pereyra_Julio",
+  "imports" : [ ]
+}, {
+  "name" : "Aguilera_Daniel_Pablo",
+  "imports" : [ "Leonforte_Daniel", "Ghezzi_Oscar" ]
+}, {
+  "name" : "Leonforte_Daniel",
+  "imports" : [ ]
+}, {
+  "name" : "Ghezzi_Oscar",
+  "imports" : [ ]
+}, {
+  "name" : "Heiler_Luis_Alberto",
+  "imports" : [ "Tobias_Federico", "Romano_Daniel" ]
+}, {
+  "name" : "Tobias_Federico",
+  "imports" : [ ]
+}, {
+  "name" : "Romano_Daniel",
+  "imports" : [ ]
+}, {
+  "name" : "Chiale_Carlos_Alberto",
+  "imports" : [ "Ciocchini_Andres" ]
+}, {
+  "name" : "Ciocchini_Andres",
+  "imports" : [ ]
+}, {
+  "name" : "Timerman_Hector_Marcos",
+  "imports" : [ "Ferraris_Paula_Veronica", "Zuain_Eduardo_Antonio", "Bushati_Ditmir", "Bianco_Carlos", "Oliveri_Guillermo_Rodolfo", "Viaje_en_Mision_Oficial_Timerman__Hector" ]
+}, {
+  "name" : "Ferraris_Paula_Veronica",
+  "imports" : [ ]
+}, {
+  "name" : "Zuain_Eduardo_Antonio",
+  "imports" : [ ]
+}, {
+  "name" : "Bushati_Ditmir",
+  "imports" : [ ]
+}, {
+  "name" : "Bianco_Carlos",
+  "imports" : [ ]
+}, {
+  "name" : "Oliveri_Guillermo_Rodolfo",
+  "imports" : [ ]
+}, {
+  "name" : "Viaje_en_Mision_Oficial_Timerman__Hector",
+  "imports" : [ ]
+}, {
+  "name" : "Perez_Colman_Maria_Carolina",
+  "imports" : [ "Nguyen_Dinh_Thao" ]
+}, {
+  "name" : "Nguyen_Dinh_Thao",
+  "imports" : [ ]
+}, {
+  "name" : "Houlin_Patricio_Juan",
+  "imports" : [ "Daulerio_Omar", "Sardi_Oscar" ]
+}, {
+  "name" : "Daulerio_Omar",
+  "imports" : [ ]
+}, {
+  "name" : "Sardi_Oscar",
+  "imports" : [ ]
+}, {
+  "name" : "Sileoni_Alberto",
+  "imports" : [ "Castro_Espin_Mariela", "Curuchet_Ricardo", "Felman_Leonardo_Fabian" ]
+}, {
+  "name" : "Castro_Espin_Mariela",
+  "imports" : [ ]
+}, {
+  "name" : "Curuchet_Ricardo",
+  "imports" : [ ]
+}, {
+  "name" : "Felman_Leonardo_Fabian",
+  "imports" : [ ]
+}, {
+  "name" : "Yazbeck_Jozami_Eduardo",
+  "imports" : [ "Shoa-Holocausto_Instituto_Iberoamericano_de_Investigacion" ]
+}, {
+  "name" : "Shoa-Holocausto_Instituto_Iberoamericano_de_Investigacion",
+  "imports" : [ ]
+} ]

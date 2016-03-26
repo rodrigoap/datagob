@@ -1,0 +1,523 @@
+[ {
+  "name" : "Bossio_Diego_Luis",
+  "imports" : [ "Ruete_Rodrigo_Maria", "Kicillof_Axel", "Ministerio_de_Planificacion_Federal__Inversion_Publica_y_Servicios" ]
+}, {
+  "name" : "Ruete_Rodrigo_Maria",
+  "imports" : [ ]
+}, {
+  "name" : "Kicillof_Axel",
+  "imports" : [ ]
+}, {
+  "name" : "Ministerio_de_Planificacion_Federal__Inversion_Publica_y_Servicios",
+  "imports" : [ ]
+}, {
+  "name" : "Arias_Duval_Martin_Augusto",
+  "imports" : [ "Untref_-", "Arias_Duval_Martin_Augusto", "Otero_Gerardo", "Agusti_Federico", "Biacchi_Juan_Carlos", "Medica_Sergio", "Arias_Duval_Martin", "Peirone_Horacio" ]
+}, {
+  "name" : "Untref_-",
+  "imports" : [ ]
+}, {
+  "name" : "Otero_Gerardo",
+  "imports" : [ ]
+}, {
+  "name" : "Agusti_Federico",
+  "imports" : [ ]
+}, {
+  "name" : "Biacchi_Juan_Carlos",
+  "imports" : [ ]
+}, {
+  "name" : "Medica_Sergio",
+  "imports" : [ ]
+}, {
+  "name" : "Arias_Duval_Martin",
+  "imports" : [ ]
+}, {
+  "name" : "Peirone_Horacio",
+  "imports" : [ ]
+}, {
+  "name" : "Casanova_Ferro_Gonzalo",
+  "imports" : [ "Janices_Pedro", "Palacios_Marco", "Villella_Leonel" ]
+}, {
+  "name" : "Janices_Pedro",
+  "imports" : [ ]
+}, {
+  "name" : "Palacios_Marco",
+  "imports" : [ ]
+}, {
+  "name" : "Villella_Leonel",
+  "imports" : [ ]
+}, {
+  "name" : "Estabillo_Jose_Arturo",
+  "imports" : [ "Quiroga_Horacio" ]
+}, {
+  "name" : "Quiroga_Horacio",
+  "imports" : [ ]
+}, {
+  "name" : "Bertoni_Ramiro_Luis",
+  "imports" : [ "Mon_Martin" ]
+}, {
+  "name" : "Mon_Martin",
+  "imports" : [ ]
+}, {
+  "name" : "Kirchner_Alicia_Margarita",
+  "imports" : [ "Rodriguez_Cecilia", "Aparicio_Eduardo", "Rivas_Nicolas" ]
+}, {
+  "name" : "Rodriguez_Cecilia",
+  "imports" : [ ]
+}, {
+  "name" : "Aparicio_Eduardo",
+  "imports" : [ ]
+}, {
+  "name" : "Rivas_Nicolas",
+  "imports" : [ ]
+}, {
+  "name" : "Gonzalez_Gaviola_Juan_Horacio",
+  "imports" : [ "Ponce_Ricardo", "Posadas_Mauro" ]
+}, {
+  "name" : "Ponce_Ricardo",
+  "imports" : [ ]
+}, {
+  "name" : "Posadas_Mauro",
+  "imports" : [ ]
+}, {
+  "name" : "Aguilera_Daniel_Pablo",
+  "imports" : [ "Ghezzi_Oscar", "Terranova_Orly" ]
+}, {
+  "name" : "Ghezzi_Oscar",
+  "imports" : [ ]
+}, {
+  "name" : "Terranova_Orly",
+  "imports" : [ ]
+}, {
+  "name" : "Molina_Juan_Carlos",
+  "imports" : [ "Pulti_Gustavo" ]
+}, {
+  "name" : "Pulti_Gustavo",
+  "imports" : [ ]
+}, {
+  "name" : "Chiale_Carlos_Alberto",
+  "imports" : [ "Gutman_Graciela", "Dominguez_Mario_Cesar", "Grimoldi_Veronica", "Montes_de_Oca_Federico", "Peretta_Marcelo_Daniel" ]
+}, {
+  "name" : "Gutman_Graciela",
+  "imports" : [ ]
+}, {
+  "name" : "Dominguez_Mario_Cesar",
+  "imports" : [ ]
+}, {
+  "name" : "Grimoldi_Veronica",
+  "imports" : [ ]
+}, {
+  "name" : "Montes_de_Oca_Federico",
+  "imports" : [ ]
+}, {
+  "name" : "Peretta_Marcelo_Daniel",
+  "imports" : [ ]
+}, {
+  "name" : "Nadale_Horacio",
+  "imports" : [ "Botner_Angel" ]
+}, {
+  "name" : "Botner_Angel",
+  "imports" : [ ]
+}, {
+  "name" : "Perez_Colman_Maria_Carolina",
+  "imports" : [ "Consultas_Politicas_Con_Irlanda", "Reunion_de_Consultas_Politicas_Con_Suiza", "Conic_Tajana", "Mizukami_Masashi", "Koronelli_Victor", "Diez_Torres_Alfonso", "Perez_Perez_Orestes", "Consultas_Politicas_Con_Austria", "Muaqqat_Walid", "Liegis_Imants", "Sekhniachvili_Guela", "Grossi_Rafael", "Timerman_Hector", "Escorcio_Herminio_Joaquim", "Perez_Colman_Maria_Carolina", "Ahmadzada_Mammad", "Zuain_Eduardo_Antonio", "Voto_Bernales_Jorge", "Jefatura_de_Gabinete_de_Ministros_-", "Kjorven_Olav", "Ministerio_de_Ciencia_Tecnologia_E_Innovacion_Productiva" ]
+}, {
+  "name" : "Consultas_Politicas_Con_Irlanda",
+  "imports" : [ ]
+}, {
+  "name" : "Reunion_de_Consultas_Politicas_Con_Suiza",
+  "imports" : [ ]
+}, {
+  "name" : "Conic_Tajana",
+  "imports" : [ ]
+}, {
+  "name" : "Mizukami_Masashi",
+  "imports" : [ ]
+}, {
+  "name" : "Koronelli_Victor",
+  "imports" : [ ]
+}, {
+  "name" : "Diez_Torres_Alfonso",
+  "imports" : [ ]
+}, {
+  "name" : "Perez_Perez_Orestes",
+  "imports" : [ ]
+}, {
+  "name" : "Consultas_Politicas_Con_Austria",
+  "imports" : [ ]
+}, {
+  "name" : "Muaqqat_Walid",
+  "imports" : [ ]
+}, {
+  "name" : "Liegis_Imants",
+  "imports" : [ ]
+}, {
+  "name" : "Sekhniachvili_Guela",
+  "imports" : [ ]
+}, {
+  "name" : "Grossi_Rafael",
+  "imports" : [ ]
+}, {
+  "name" : "Timerman_Hector",
+  "imports" : [ ]
+}, {
+  "name" : "Escorcio_Herminio_Joaquim",
+  "imports" : [ ]
+}, {
+  "name" : "Ahmadzada_Mammad",
+  "imports" : [ ]
+}, {
+  "name" : "Zuain_Eduardo_Antonio",
+  "imports" : [ ]
+}, {
+  "name" : "Voto_Bernales_Jorge",
+  "imports" : [ ]
+}, {
+  "name" : "Jefatura_de_Gabinete_de_Ministros_-",
+  "imports" : [ ]
+}, {
+  "name" : "Kjorven_Olav",
+  "imports" : [ ]
+}, {
+  "name" : "Ministerio_de_Ciencia_Tecnologia_E_Innovacion_Productiva",
+  "imports" : [ ]
+}, {
+  "name" : "Zuain_Eduardo_Antonio",
+  "imports" : [ "Casa_Jean_Michel", "Prosperi_Pablo", "Ow_Chio_Kiat_-", "Timerman_Hector", "Yang_Wanming", "Varsky_Hugo", "Valle_Raleigh_Juan_Carlos", "Escorcio_Herminio_Joaquim", "Kliksberg_Bernardo", "Ciliberto_Ciro", "Sebaste_Marcelo_Raul", "Crexell_Carmen_Lucia", "Harman_Justin_Nicholas", "Kremer_Pedro", "Martinez_Mendoza_Carlos_Eduardo", "Ferraris_Paula_Veronica", "Ainchil_Gustavo", "Filmus_Daniel", "Villegas_Beltran_Federico", "Andary_Antonio_Raymond", "Ahmadzada_Mammad", "Chiller_Gaston", "Vaca_Narvaja_Sabino", "Perez_Colman_Maria_Carolina", "Melikian_Vahagn", "Almenhali_Ahmed_Hatem_Barghash", "Menvielle_Agueda", "Al_Kaddour_Walid", "Cordero_Arias_Luis_Alberto", "Martinez_Alvarado_Carlos_Ramiro", "Karakas_Taner", "Tettamanti_Diego" ]
+}, {
+  "name" : "Casa_Jean_Michel",
+  "imports" : [ ]
+}, {
+  "name" : "Prosperi_Pablo",
+  "imports" : [ ]
+}, {
+  "name" : "Ow_Chio_Kiat_-",
+  "imports" : [ ]
+}, {
+  "name" : "Yang_Wanming",
+  "imports" : [ ]
+}, {
+  "name" : "Varsky_Hugo",
+  "imports" : [ ]
+}, {
+  "name" : "Valle_Raleigh_Juan_Carlos",
+  "imports" : [ ]
+}, {
+  "name" : "Kliksberg_Bernardo",
+  "imports" : [ ]
+}, {
+  "name" : "Ciliberto_Ciro",
+  "imports" : [ ]
+}, {
+  "name" : "Sebaste_Marcelo_Raul",
+  "imports" : [ ]
+}, {
+  "name" : "Crexell_Carmen_Lucia",
+  "imports" : [ ]
+}, {
+  "name" : "Harman_Justin_Nicholas",
+  "imports" : [ ]
+}, {
+  "name" : "Kremer_Pedro",
+  "imports" : [ ]
+}, {
+  "name" : "Martinez_Mendoza_Carlos_Eduardo",
+  "imports" : [ ]
+}, {
+  "name" : "Ferraris_Paula_Veronica",
+  "imports" : [ ]
+}, {
+  "name" : "Ainchil_Gustavo",
+  "imports" : [ ]
+}, {
+  "name" : "Filmus_Daniel",
+  "imports" : [ ]
+}, {
+  "name" : "Villegas_Beltran_Federico",
+  "imports" : [ ]
+}, {
+  "name" : "Andary_Antonio_Raymond",
+  "imports" : [ ]
+}, {
+  "name" : "Chiller_Gaston",
+  "imports" : [ ]
+}, {
+  "name" : "Vaca_Narvaja_Sabino",
+  "imports" : [ ]
+}, {
+  "name" : "Melikian_Vahagn",
+  "imports" : [ ]
+}, {
+  "name" : "Almenhali_Ahmed_Hatem_Barghash",
+  "imports" : [ ]
+}, {
+  "name" : "Menvielle_Agueda",
+  "imports" : [ ]
+}, {
+  "name" : "Al_Kaddour_Walid",
+  "imports" : [ ]
+}, {
+  "name" : "Cordero_Arias_Luis_Alberto",
+  "imports" : [ ]
+}, {
+  "name" : "Martinez_Alvarado_Carlos_Ramiro",
+  "imports" : [ ]
+}, {
+  "name" : "Karakas_Taner",
+  "imports" : [ ]
+}, {
+  "name" : "Tettamanti_Diego",
+  "imports" : [ ]
+}, {
+  "name" : "Alonso_Navone_Guillermo_Esteban_Jesus",
+  "imports" : [ "Calvete_Miguel_Angel", "Zamborain_Lucio", "Del_Carril_Hugo" ]
+}, {
+  "name" : "Calvete_Miguel_Angel",
+  "imports" : [ ]
+}, {
+  "name" : "Zamborain_Lucio",
+  "imports" : [ ]
+}, {
+  "name" : "Del_Carril_Hugo",
+  "imports" : [ ]
+}, {
+  "name" : "Baranao_Jose_Lino_Salvador",
+  "imports" : [ "Limeres_Manuel", "Donato_Vicente", "Revora_Silvia_Alicia", "Pocay_Luisina", "Beij_Martin", "Salerno_Graciela", "Lanusse_Carlos", "Annibali_Nestor", "Grecco_Hernan", "Baralle_Franciso", "Elgoyhen_Ana_Belen" ]
+}, {
+  "name" : "Limeres_Manuel",
+  "imports" : [ ]
+}, {
+  "name" : "Donato_Vicente",
+  "imports" : [ ]
+}, {
+  "name" : "Revora_Silvia_Alicia",
+  "imports" : [ ]
+}, {
+  "name" : "Pocay_Luisina",
+  "imports" : [ ]
+}, {
+  "name" : "Beij_Martin",
+  "imports" : [ ]
+}, {
+  "name" : "Salerno_Graciela",
+  "imports" : [ ]
+}, {
+  "name" : "Lanusse_Carlos",
+  "imports" : [ ]
+}, {
+  "name" : "Annibali_Nestor",
+  "imports" : [ ]
+}, {
+  "name" : "Grecco_Hernan",
+  "imports" : [ ]
+}, {
+  "name" : "Baralle_Franciso",
+  "imports" : [ ]
+}, {
+  "name" : "Elgoyhen_Ana_Belen",
+  "imports" : [ ]
+}, {
+  "name" : "Sileoni_Alberto",
+  "imports" : [ "Poggi_Margarita", "Aguilar_Eduardo_Alberto" ]
+}, {
+  "name" : "Poggi_Margarita",
+  "imports" : [ ]
+}, {
+  "name" : "Aguilar_Eduardo_Alberto",
+  "imports" : [ ]
+}, {
+  "name" : "Lopez_Pablo_Julio",
+  "imports" : [ "Nisbet_Kimberly" ]
+}, {
+  "name" : "Nisbet_Kimberly",
+  "imports" : [ ]
+}, {
+  "name" : "Martinez_Leone_Ricardo",
+  "imports" : [ "Langus_Julia", "Fonoll_Edgardo", "Ing_Garcia_Pereira_Carlos", "Lippi_Alberto_Oscar" ]
+}, {
+  "name" : "Langus_Julia",
+  "imports" : [ ]
+}, {
+  "name" : "Fonoll_Edgardo",
+  "imports" : [ ]
+}, {
+  "name" : "Ing_Garcia_Pereira_Carlos",
+  "imports" : [ ]
+}, {
+  "name" : "Lippi_Alberto_Oscar",
+  "imports" : [ ]
+}, {
+  "name" : "Meyer_Carlos_Enrique",
+  "imports" : [ "Basaran_Ulusoy", "Dobrusin_Sergio", "Grossi_Rafael" ]
+}, {
+  "name" : "Basaran_Ulusoy",
+  "imports" : [ ]
+}, {
+  "name" : "Dobrusin_Sergio",
+  "imports" : [ ]
+}, {
+  "name" : "Kicillof_Axel",
+  "imports" : [ "Wang_Hong", "Pereyra_Julio", "Rodriguez_Alberto", "Recalde_Hector_Pedro", "Calaza_Adrian", "Caride_Eduardo", "Kaplan_Sebastian", "Loizaga_Eladio", "Lascurain_Juan_Carlos", "Biga_Jorge_Omar_Antonio", "Bulgheroni_Marcos", "Dominguez_Julian", "Mok_Hans_Peter" ]
+}, {
+  "name" : "Wang_Hong",
+  "imports" : [ ]
+}, {
+  "name" : "Pereyra_Julio",
+  "imports" : [ ]
+}, {
+  "name" : "Rodriguez_Alberto",
+  "imports" : [ ]
+}, {
+  "name" : "Recalde_Hector_Pedro",
+  "imports" : [ ]
+}, {
+  "name" : "Calaza_Adrian",
+  "imports" : [ ]
+}, {
+  "name" : "Caride_Eduardo",
+  "imports" : [ ]
+}, {
+  "name" : "Kaplan_Sebastian",
+  "imports" : [ ]
+}, {
+  "name" : "Loizaga_Eladio",
+  "imports" : [ ]
+}, {
+  "name" : "Lascurain_Juan_Carlos",
+  "imports" : [ ]
+}, {
+  "name" : "Biga_Jorge_Omar_Antonio",
+  "imports" : [ ]
+}, {
+  "name" : "Bulgheroni_Marcos",
+  "imports" : [ ]
+}, {
+  "name" : "Dominguez_Julian",
+  "imports" : [ ]
+}, {
+  "name" : "Mok_Hans_Peter",
+  "imports" : [ ]
+}, {
+  "name" : "Alak_Julio_Cesar",
+  "imports" : [ "Alak_Julio_Cesar" ]
+}, {
+  "name" : "Heiler_Luis_Alberto",
+  "imports" : [ "Knol_Alex_Westtendarp", "Suarez_Enrique_O", "Perez_Vigo_Jose", "Castagnola_Daniel" ]
+}, {
+  "name" : "Knol_Alex_Westtendarp",
+  "imports" : [ ]
+}, {
+  "name" : "Suarez_Enrique_O",
+  "imports" : [ ]
+}, {
+  "name" : "Perez_Vigo_Jose",
+  "imports" : [ ]
+}, {
+  "name" : "Castagnola_Daniel",
+  "imports" : [ ]
+}, {
+  "name" : "Ladenhein_Ruth",
+  "imports" : [ "Badaracco_Florencia" ]
+}, {
+  "name" : "Badaracco_Florencia",
+  "imports" : [ ]
+}, {
+  "name" : "Fernandez_de_Kirchner_Cristina",
+  "imports" : [ "Capitanich_Jorge", "De_Vido_Julio", "Kicillof_Axel", "Zannini_Carlos", "Zuain_Eduardo_Antonio" ]
+}, {
+  "name" : "Capitanich_Jorge",
+  "imports" : [ ]
+}, {
+  "name" : "De_Vido_Julio",
+  "imports" : [ ]
+}, {
+  "name" : "Zannini_Carlos",
+  "imports" : [ ]
+}, {
+  "name" : "Timerman_Hector_Marcos",
+  "imports" : [ "Viaje_en_Mision_Oficial_Timerman__Hector", "Bianco_Carlos", "Ferraris_Paula_Veronica", "Zuain_Eduardo_Antonio", "Martinsen_Holger_Federico", "Loizaga_Eladio", "Talento_Miguel", "Samper_Pizano_Ernesto", "Filmus_Daniel", "Oliveri_Guillermo", "Faillace_Magdalena", "Meyer_Carlos", "Tettamanti_Diego", "Dacic_Ivica", "Lolhe_Marcos", "Ruiz_Cerutti_Susana" ]
+}, {
+  "name" : "Viaje_en_Mision_Oficial_Timerman__Hector",
+  "imports" : [ ]
+}, {
+  "name" : "Bianco_Carlos",
+  "imports" : [ ]
+}, {
+  "name" : "Martinsen_Holger_Federico",
+  "imports" : [ ]
+}, {
+  "name" : "Talento_Miguel",
+  "imports" : [ ]
+}, {
+  "name" : "Samper_Pizano_Ernesto",
+  "imports" : [ ]
+}, {
+  "name" : "Oliveri_Guillermo",
+  "imports" : [ ]
+}, {
+  "name" : "Faillace_Magdalena",
+  "imports" : [ ]
+}, {
+  "name" : "Meyer_Carlos",
+  "imports" : [ ]
+}, {
+  "name" : "Dacic_Ivica",
+  "imports" : [ ]
+}, {
+  "name" : "Lolhe_Marcos",
+  "imports" : [ ]
+}, {
+  "name" : "Ruiz_Cerutti_Susana",
+  "imports" : [ ]
+}, {
+  "name" : "Vismara_Patricia",
+  "imports" : [ "Aveiro_Martin_Guillermo" ]
+}, {
+  "name" : "Aveiro_Martin_Guillermo",
+  "imports" : [ ]
+}, {
+  "name" : "Poffo_Carlos_Alejandro",
+  "imports" : [ "Karakas_Taner", "Velastegui_Carlos_Alberto", "Barlow_Richard_David" ]
+}, {
+  "name" : "Velastegui_Carlos_Alberto",
+  "imports" : [ ]
+}, {
+  "name" : "Barlow_Richard_David",
+  "imports" : [ ]
+}, {
+  "name" : "Giorgi_Debora_Adriana",
+  "imports" : [ "Fomichev_Oleg", "Iud_Javier", "Calvimonte_Juan_Carlos", "Venutolo_Gerardo" ]
+}, {
+  "name" : "Fomichev_Oleg",
+  "imports" : [ ]
+}, {
+  "name" : "Iud_Javier",
+  "imports" : [ ]
+}, {
+  "name" : "Calvimonte_Juan_Carlos",
+  "imports" : [ ]
+}, {
+  "name" : "Venutolo_Gerardo",
+  "imports" : [ ]
+}, {
+  "name" : "Houlin_Patricio_Juan",
+  "imports" : [ "Sola_Juan_Carlos", "Steven_Robert", "Altea_Facundo", "Paladini_Luciano" ]
+}, {
+  "name" : "Sola_Juan_Carlos",
+  "imports" : [ ]
+}, {
+  "name" : "Steven_Robert",
+  "imports" : [ ]
+}, {
+  "name" : "Altea_Facundo",
+  "imports" : [ ]
+}, {
+  "name" : "Paladini_Luciano",
+  "imports" : [ ]
+}, {
+  "name" : "Ceccatto_Hermeregildo_Alejandro_Ramon",
+  "imports" : [ "Karszenbaum_Haydee" ]
+}, {
+  "name" : "Karszenbaum_Haydee",
+  "imports" : [ ]
+} ]
