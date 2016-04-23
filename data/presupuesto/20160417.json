@@ -1,0 +1,1164 @@
+{
+  "name" : "flare",
+  "children" : [ {
+    "name" : "Administración Nacional de la Seguridad Social",
+    "id" : 850,
+    "children" : [ {
+      "id" : 16,
+      "name" : "Prestaciones Previsionales",
+      "montoPresupuestado" : 489414.407,
+      "montoEjecutado" : 112901.3856,
+      "ejecutadoPorcentaje" : 23.07
+    }, {
+      "id" : 19,
+      "name" : "Asignaciones Familiares",
+      "montoPresupuestado" : 73750.3,
+      "montoEjecutado" : 18513.8381,
+      "ejecutadoPorcentaje" : 25.1
+    }, {
+      "id" : 99,
+      "name" : "Transferencias y Contribuciones a la Seguridad Social y Organismos Descentralizados",
+      "montoPresupuestado" : 21887.0474,
+      "montoEjecutado" : 5308.7746,
+      "ejecutadoPorcentaje" : 24.26
+    }, {
+      "id" : 20,
+      "name" : "Atencion Ex-Cajas Provinciales",
+      "montoPresupuestado" : 21786.323,
+      "montoEjecutado" : 5126.6617,
+      "ejecutadoPorcentaje" : 23.53
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 13881.579,
+      "montoEjecutado" : 2384.2991,
+      "ejecutadoPorcentaje" : 17.18
+    }, {
+      "id" : 29,
+      "name" : "Programa de Respaldo a Estudiantes de Argentina - PROGRESAR",
+      "montoPresupuestado" : 8946.7358,
+      "montoEjecutado" : 1483.8907,
+      "ejecutadoPorcentaje" : 16.59
+    }, {
+      "id" : 21,
+      "name" : "Atencion Pensiones Ex-Combatientes y Regimen Reparatorio Ley Nº26.913",
+      "montoPresupuestado" : 4207.27,
+      "montoEjecutado" : 980.9274,
+      "ejecutadoPorcentaje" : 23.32
+    }, {
+      "id" : 28,
+      "name" : "Asistencia Financiera al Programa Conectar Igualdad",
+      "montoPresupuestado" : 3141.298,
+      "montoEjecutado" : 129.6458,
+      "ejecutadoPorcentaje" : 4.13
+    }, {
+      "id" : 17,
+      "name" : "Complementos a las Prestaciones Previsionales",
+      "montoPresupuestado" : 944.7573,
+      "montoEjecutado" : 162.4522,
+      "ejecutadoPorcentaje" : 17.2
+    }, {
+      "id" : 18,
+      "name" : "Seguro de Desempleo",
+      "montoPresupuestado" : 384.278,
+      "montoEjecutado" : 59.1355,
+      "ejecutadoPorcentaje" : 15.39
+    } ]
+  }, {
+    "name" : "Servicio de la Deuda Pública",
+    "id" : 355,
+    "children" : [ {
+      "id" : 98,
+      "name" : "Deudas Directas de la Administracion Central",
+      "montoPresupuestado" : 103969.738,
+      "montoEjecutado" : 28306.0934,
+      "ejecutadoPorcentaje" : 27.23
+    } ]
+  }, {
+    "name" : "Obligaciones a Cargo del Tesoro",
+    "id" : 356,
+    "children" : [ {
+      "id" : 95,
+      "name" : "Asistencia Financiera a Empresas Publicas y Ente Binacional",
+      "montoPresupuestado" : 78372.77,
+      "montoEjecutado" : 13665.9915,
+      "ejecutadoPorcentaje" : 17.44
+    }, {
+      "id" : 99,
+      "name" : "Otras Asistencias Financieras",
+      "montoPresupuestado" : 19621.9706,
+      "montoEjecutado" : 14.0,
+      "ejecutadoPorcentaje" : 0.07
+    }, {
+      "id" : 93,
+      "name" : "Fondo Federal Solidario",
+      "montoPresupuestado" : 17892.8,
+      "montoEjecutado" : 1937.4896,
+      "ejecutadoPorcentaje" : 10.83
+    }, {
+      "id" : 97,
+      "name" : "Aportes al Sector Externo",
+      "montoPresupuestado" : 3654.177,
+      "montoEjecutado" : 606.1698,
+      "ejecutadoPorcentaje" : 16.59
+    }, {
+      "id" : 98,
+      "name" : "Asistencia Financiera a Provincias y Municipios",
+      "montoPresupuestado" : 1605.93,
+      "montoEjecutado" : 447.921,
+      "ejecutadoPorcentaje" : 27.89
+    }, {
+      "id" : 94,
+      "name" : "Asistencia Financiera a Sectores Economicos",
+      "montoPresupuestado" : 131.82,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 96,
+      "name" : "Atencion Servicios Financieros y Gastos Judiciales",
+      "montoPresupuestado" : 50.0,
+      "montoEjecutado" : 0.6164,
+      "ejecutadoPorcentaje" : 1.23
+    } ]
+  }, {
+    "name" : "Ministerio de Energía y Minería (Gastos Propios)",
+    "id" : 328,
+    "children" : [ {
+      "id" : 74,
+      "name" : "Formulacion y Ejecucion de la Politica de Energia Electrica",
+      "montoPresupuestado" : 73377.0673,
+      "montoEjecutado" : 12472.7333,
+      "ejecutadoPorcentaje" : 17.0
+    }, {
+      "id" : 29,
+      "name" : "Programa de Planificacion y Coordinacion Estrategica del Plan Nacional de Inversiones Hidrocarburiferas",
+      "montoPresupuestado" : 11507.868,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 73,
+      "name" : "Formulacion y Ejecucion de Politica de Hidrocarburos",
+      "montoPresupuestado" : 4025.0776,
+      "montoEjecutado" : 619.5352,
+      "ejecutadoPorcentaje" : 15.39
+    }, {
+      "id" : 77,
+      "name" : "Acciones para la Ampliacion de las Redes Electricas de Alta Tension (BID Nº 1764 y N° 2514 y CAF Nº 8517 y  Nº 6566)",
+      "montoPresupuestado" : 2990.8869,
+      "montoEjecutado" : 31.397,
+      "ejecutadoPorcentaje" : 1.05
+    }, {
+      "id" : 78,
+      "name" : "Desarrollo Energetico Provincial",
+      "montoPresupuestado" : 1602.9371,
+      "montoEjecutado" : 134.3539,
+      "ejecutadoPorcentaje" : 8.38
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 987.686,
+      "montoEjecutado" : 117.4016,
+      "ejecutadoPorcentaje" : 11.89
+    }, {
+      "id" : 94,
+      "name" : "Asistencia Financiera a Empresas Publicas y al Ente Binacional Yacyreta",
+      "montoPresupuestado" : 685.52,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 32,
+      "name" : "Formulacion y Ejecucion de la Politica Geologico-Minera",
+      "montoPresupuestado" : 197.3148,
+      "montoEjecutado" : 7.4099,
+      "ejecutadoPorcentaje" : 3.76
+    }, {
+      "id" : 75,
+      "name" : "Acciones para el Uso Racional y Eficiente de la Energia (BIRF Nº 7617)",
+      "montoPresupuestado" : 96.6264,
+      "montoEjecutado" : 0.433,
+      "ejecutadoPorcentaje" : 0.45
+    } ]
+  }, {
+    "name" : "Ministerio de Desarrollo Social",
+    "id" : 311,
+    "children" : [ {
+      "id" : 23,
+      "name" : "Pensiones no Contributivas",
+      "montoPresupuestado" : 70782.8689,
+      "montoEjecutado" : 16841.3169,
+      "ejecutadoPorcentaje" : 23.79
+    }, {
+      "id" : 38,
+      "name" : "Programa del Ingreso Social con Trabajo",
+      "montoPresupuestado" : 8813.0909,
+      "montoEjecutado" : 2321.7921,
+      "ejecutadoPorcentaje" : 26.34
+    }, {
+      "id" : 26,
+      "name" : "Seguridad Alimentaria",
+      "montoPresupuestado" : 3913.9907,
+      "montoEjecutado" : 391.0768,
+      "ejecutadoPorcentaje" : 9.99
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 2257.6212,
+      "montoEjecutado" : 409.8064,
+      "ejecutadoPorcentaje" : 18.15
+    }, {
+      "id" : 20,
+      "name" : "Acciones de Promocion y Proteccion Social",
+      "montoPresupuestado" : 1323.8799,
+      "montoEjecutado" : 46.1438,
+      "ejecutadoPorcentaje" : 3.49
+    }, {
+      "id" : 24,
+      "name" : "Promocion del Empleo Social, Economia Social y Desarrollo Lo",
+      "montoPresupuestado" : 300.7294,
+      "montoEjecutado" : 16.7927,
+      "ejecutadoPorcentaje" : 5.58
+    }, {
+      "id" : 21,
+      "name" : "Capacitacion, Fortalecimiento y Asistencia Tecnica",
+      "montoPresupuestado" : 245.7906,
+      "montoEjecutado" : 10.7208,
+      "ejecutadoPorcentaje" : 4.36
+    }, {
+      "id" : 28,
+      "name" : "Inclusion Social y Fortalecimiento Infantil",
+      "montoPresupuestado" : 40.0807,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 39,
+      "name" : "Acciones Inherentes a la Responsabilidad Social",
+      "montoPresupuestado" : 6.5182,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 3,
+      "name" : "Actividades Comunes a los Programas 20 y 26",
+      "montoPresupuestado" : 5.9516,
+      "montoEjecutado" : 3.2799,
+      "ejecutadoPorcentaje" : 55.11
+    }, {
+      "id" : 99,
+      "name" : "Erogaciones Figurativas y Transferencias Varias",
+      "montoPresupuestado" : 0.7564,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    } ]
+  }, {
+    "name" : "Ministerio de Educación y Deportes",
+    "id" : 330,
+    "children" : [ {
+      "id" : 26,
+      "name" : "Desarrollo de la Educacion Superior",
+      "montoPresupuestado" : 54339.5568,
+      "montoEjecutado" : 11192.6548,
+      "ejecutadoPorcentaje" : 20.6
+    }, {
+      "id" : 98,
+      "name" : "Fondo Nacional de Incentivo Docente y Compensaciones Salariales",
+      "montoPresupuestado" : 10136.2565,
+      "montoEjecutado" : 3392.3522,
+      "ejecutadoPorcentaje" : 33.47
+    }, {
+      "id" : 29,
+      "name" : "Gestion Educativa",
+      "montoPresupuestado" : 6234.1326,
+      "montoEjecutado" : 426.4147,
+      "ejecutadoPorcentaje" : 6.84
+    }, {
+      "id" : 37,
+      "name" : "Infraestructura y Equipamiento",
+      "montoPresupuestado" : 3351.5047,
+      "montoEjecutado" : 9.885,
+      "ejecutadoPorcentaje" : 0.29
+    }, {
+      "id" : 39,
+      "name" : "Innovacion y Desarrollo de la Formacion Tecnologica",
+      "montoPresupuestado" : 3336.6227,
+      "montoEjecutado" : 18.4846,
+      "ejecutadoPorcentaje" : 0.55
+    }, {
+      "id" : 33,
+      "name" : "Acciones Compensatorias en Educacion",
+      "montoPresupuestado" : 2862.4115,
+      "montoEjecutado" : 261.7721,
+      "ejecutadoPorcentaje" : 9.15
+    }, {
+      "id" : 45,
+      "name" : "Acciones de Formacion Docente",
+      "montoPresupuestado" : 1345.2964,
+      "montoEjecutado" : 5.5839,
+      "ejecutadoPorcentaje" : 0.42
+    }, {
+      "id" : 17,
+      "name" : "Desarrollo  y Fomento del Deporte Social y del Deporte de Alto Rendimiento",
+      "montoPresupuestado" : 876.7078,
+      "montoEjecutado" : 51.1018,
+      "ejecutadoPorcentaje" : 5.83
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 347.7744,
+      "montoEjecutado" : 101.6148,
+      "ejecutadoPorcentaje" : 29.22
+    }, {
+      "id" : 99,
+      "name" : "Erogaciones Figurativas y Transferencias Varias",
+      "montoPresupuestado" : 231.2971,
+      "montoEjecutado" : 0.6827,
+      "ejecutadoPorcentaje" : 0.3
+    }, {
+      "id" : 6,
+      "name" : "Actividades Comunes a los Programas 17 y 18",
+      "montoPresupuestado" : 180.2251,
+      "montoEjecutado" : 19.6041,
+      "ejecutadoPorcentaje" : 10.88
+    }, {
+      "id" : 32,
+      "name" : "Informacion y Evaluacion de la Calidad Educativa",
+      "montoPresupuestado" : 150.6146,
+      "montoEjecutado" : 7.6073,
+      "ejecutadoPorcentaje" : 5.05
+    }, {
+      "id" : 9,
+      "name" : "Actividades Comunes a los Programas de Educacion 29, 32, 33, 35, 41 y 45",
+      "montoPresupuestado" : 124.6605,
+      "montoEjecutado" : 12.4324,
+      "ejecutadoPorcentaje" : 9.97
+    }, {
+      "id" : 44,
+      "name" : "Mejoramiento de la Calidad Educativa",
+      "montoPresupuestado" : 68.0159,
+      "montoEjecutado" : 5.2877,
+      "ejecutadoPorcentaje" : 7.77
+    }, {
+      "id" : 30,
+      "name" : "Cooperacion e Integracion Educativa Internacional",
+      "montoPresupuestado" : 56.8254,
+      "montoEjecutado" : 5.0977,
+      "ejecutadoPorcentaje" : 8.97
+    }, {
+      "id" : 41,
+      "name" : "Planeamiento Educativo y Fortalecimiento de las Administraciones Provinciales",
+      "montoPresupuestado" : 30.9582,
+      "montoEjecutado" : 3.5072,
+      "ejecutadoPorcentaje" : 11.33
+    }, {
+      "id" : 35,
+      "name" : "Servicio de la Biblioteca de Maestros",
+      "montoPresupuestado" : 27.6282,
+      "montoEjecutado" : 4.5011,
+      "ejecutadoPorcentaje" : 16.29
+    }, {
+      "id" : 18,
+      "name" : "Asistencia Medico - Deportiva y Control Antidoping",
+      "montoPresupuestado" : 8.0901,
+      "montoEjecutado" : 1.7582,
+      "ejecutadoPorcentaje" : 21.73
+    } ]
+  }, {
+    "name" : "Ministerio de Transporte (Gastos Propios)",
+    "id" : 327,
+    "children" : [ {
+      "id" : 61,
+      "name" : "Formulacion y Ejecucion de Politicas de Transporte Automotor",
+      "montoPresupuestado" : 29802.7535,
+      "montoEjecutado" : 6034.6414,
+      "ejecutadoPorcentaje" : 20.25
+    }, {
+      "id" : 62,
+      "name" : "Formulacion y Ejecucion Politicas de Transporte Ferroviario",
+      "montoPresupuestado" : 5578.3181,
+      "montoEjecutado" : 365.8201,
+      "ejecutadoPorcentaje" : 6.56
+    }, {
+      "id" : 60,
+      "name" : "Formulacion y Ejecucion de Politicas de Transporte Aerocomercial",
+      "montoPresupuestado" : 4228.1108,
+      "montoEjecutado" : 1425.7298,
+      "ejecutadoPorcentaje" : 33.72
+    }, {
+      "id" : 91,
+      "name" : "Formulacion y Conduccion de Politicas Portuarias y de Vias Navegables",
+      "montoPresupuestado" : 1576.6166,
+      "montoEjecutado" : 61.5754,
+      "ejecutadoPorcentaje" : 3.91
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 728.3127,
+      "montoEjecutado" : 52.3602,
+      "ejecutadoPorcentaje" : 7.19
+    }, {
+      "id" : 64,
+      "name" : "Investigacion de las Politicas de Transporte",
+      "montoPresupuestado" : 9.8,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 41,
+      "name" : "Hidrovia Paraguay - Parana",
+      "montoPresupuestado" : 0.0,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    } ]
+  }, {
+    "name" : "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "id" : 470,
+    "children" : [ {
+      "id" : 16,
+      "name" : "Prestaciones de Prevision Social",
+      "montoPresupuestado" : 15963.872,
+      "montoEjecutado" : 2482.4575,
+      "ejecutadoPorcentaje" : 15.55
+    } ]
+  }, {
+    "name" : "Estado Mayor General del Ejercito",
+    "id" : 374,
+    "children" : [ {
+      "id" : 16,
+      "name" : "Alistamiento Operacional",
+      "montoPresupuestado" : 14820.3684,
+      "montoEjecutado" : 2708.61,
+      "ejecutadoPorcentaje" : 18.28
+    }, {
+      "id" : 17,
+      "name" : "Formacion y Capacitacion",
+      "montoPresupuestado" : 3278.24,
+      "montoEjecutado" : 561.3376,
+      "ejecutadoPorcentaje" : 17.12
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 2750.3791,
+      "montoEjecutado" : 547.5094,
+      "ejecutadoPorcentaje" : 19.91
+    }, {
+      "id" : 18,
+      "name" : "Asistencia Sanitaria",
+      "montoPresupuestado" : 2087.6442,
+      "montoEjecutado" : 374.7785,
+      "ejecutadoPorcentaje" : 17.95
+    }, {
+      "id" : 19,
+      "name" : "Remonta y Veterinaria",
+      "montoPresupuestado" : 223.7515,
+      "montoEjecutado" : 43.1893,
+      "ejecutadoPorcentaje" : 19.3
+    }, {
+      "id" : 20,
+      "name" : "Sastreria Militar",
+      "montoPresupuestado" : 74.6411,
+      "montoEjecutado" : 14.227,
+      "ejecutadoPorcentaje" : 19.06
+    }, {
+      "id" : 24,
+      "name" : "Sostenimiento Operacional",
+      "montoPresupuestado" : 50.0,
+      "montoEjecutado" : 0.2976,
+      "ejecutadoPorcentaje" : 0.6
+    } ]
+  }, {
+    "name" : "Dirección Nacional de Vialidad",
+    "id" : 604,
+    "children" : [ {
+      "id" : 22,
+      "name" : "Construcciones",
+      "montoPresupuestado" : 14011.3928,
+      "montoEjecutado" : 3341.9183,
+      "ejecutadoPorcentaje" : 23.85
+    }, {
+      "id" : 40,
+      "name" : "Obras en Corredores Viales",
+      "montoPresupuestado" : 4544.8814,
+      "montoEjecutado" : 1335.3316,
+      "ejecutadoPorcentaje" : 29.38
+    }, {
+      "id" : 16,
+      "name" : "Mantenimiento",
+      "montoPresupuestado" : 4260.4169,
+      "montoEjecutado" : 1005.6912,
+      "ejecutadoPorcentaje" : 23.61
+    }, {
+      "id" : 26,
+      "name" : "Sistema de Contratos de Recuperacion y Mantenimiento",
+      "montoPresupuestado" : 1585.6122,
+      "montoEjecutado" : 175.9815,
+      "ejecutadoPorcentaje" : 11.1
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 888.5081,
+      "montoEjecutado" : 218.6098,
+      "ejecutadoPorcentaje" : 24.6
+    }, {
+      "id" : 36,
+      "name" : "Control de Concesiones Viales",
+      "montoPresupuestado" : 224.8648,
+      "montoEjecutado" : 45.1477,
+      "ejecutadoPorcentaje" : 20.08
+    }, {
+      "id" : 37,
+      "name" : "Infraestructura en Concesiones Viales",
+      "montoPresupuestado" : 82.0351,
+      "montoEjecutado" : 23.351,
+      "ejecutadoPorcentaje" : 28.46
+    }, {
+      "id" : 38,
+      "name" : "Infraestructura en Areas Urbanas",
+      "montoPresupuestado" : 51.4988,
+      "montoEjecutado" : 1.8139,
+      "ejecutadoPorcentaje" : 3.52
+    }, {
+      "id" : 41,
+      "name" : "Sistema de Transporte Inteligente",
+      "montoPresupuestado" : 43.8688,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    } ]
+  }, {
+    "name" : "Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal Argentina",
+    "id" : 250,
+    "children" : [ {
+      "id" : 18,
+      "name" : "Administracion de Beneficios Previsionales",
+      "montoPresupuestado" : 13384.246,
+      "montoEjecutado" : 2157.1298,
+      "ejecutadoPorcentaje" : 16.12
+    } ]
+  }, {
+    "name" : "Ministerio del Interior, Obras Públicas y Vivienda (Gastos Propios)",
+    "id" : 325,
+    "children" : [ {
+      "id" : 68,
+      "name" : "Desarrollo de la Infraestructura Habitacional \"TECHO DIGNO\"",
+      "montoPresupuestado" : 12484.259,
+      "montoEjecutado" : 3.0855,
+      "ejecutadoPorcentaje" : 0.02
+    }, {
+      "id" : 85,
+      "name" : "Acc el Des del  Norte Grande (BID 1843, 1851, 2776 y  2698, CAF 6568, 7864,  8028; 8593; 8640 y BIRF 7991, 7992 y8032",
+      "montoPresupuestado" : 4999.1479,
+      "montoEjecutado" : 345.4528,
+      "ejecutadoPorcentaje" : 6.91
+    }, {
+      "id" : 72,
+      "name" : "Formulacion, Programacion, Ejecucion y Control de Obras Publicas",
+      "montoPresupuestado" : 4516.4088,
+      "montoEjecutado" : 5.7817,
+      "ejecutadoPorcentaje" : 0.13
+    }, {
+      "id" : 69,
+      "name" : "Acciones para el Mejoramiento Habitacional e Infraestructura Basica",
+      "montoPresupuestado" : 3530.7068,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 70,
+      "name" : "Fortalecimiento Comunitario del Habitat",
+      "montoPresupuestado" : 2608.723,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 65,
+      "name" : "Ejecucion de Obras de Arquitectura",
+      "montoPresupuestado" : 1817.6966,
+      "montoEjecutado" : 7.9814,
+      "ejecutadoPorcentaje" : 0.44
+    }, {
+      "id" : 71,
+      "name" : "Urbanizacion de Villas y Asentamientos Precarios",
+      "montoPresupuestado" : 1641.8852,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 83,
+      "name" : "Desarrollo de la Infraestructura Productiva (BID Nº 2185, Nº 2929 y Nº 2655 y CAF Nº 7352; Nº 8026, N° 8653 y S/N)",
+      "montoPresupuestado" : 1530.4103,
+      "montoEjecutado" : 3.5405,
+      "ejecutadoPorcentaje" : 0.23
+    }, {
+      "id" : 19,
+      "name" : "Asistencia Tecnica y Financiera a Provincias",
+      "montoPresupuestado" : 1217.3279,
+      "montoEjecutado" : 160.0855,
+      "ejecutadoPorcentaje" : 13.15
+    }, {
+      "id" : 89,
+      "name" : "Acciones para \"Mas Escuelas, Mejor Educacion\" (BID Nº 1345, Nº 1966 y Nº 2424 y S/N y CAF Nº 7908)",
+      "montoPresupuestado" : 1153.4349,
+      "montoEjecutado" : 35.7223,
+      "ejecutadoPorcentaje" : 3.1
+    }, {
+      "id" : 67,
+      "name" : "Acciones para el Desarrollo de la Infraestructura Social (BID Nº 2662/OC-AR;  3458/OC-AR  y FONPLATA AR Nº 21/2014)",
+      "montoPresupuestado" : 967.3985,
+      "montoEjecutado" : 271.4301,
+      "ejecutadoPorcentaje" : 28.06
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 948.2024,
+      "montoEjecutado" : 95.7003,
+      "ejecutadoPorcentaje" : 10.09
+    }, {
+      "id" : 94,
+      "name" : "Asistencia Financiera a Empresas Publicas",
+      "montoPresupuestado" : 892.9602,
+      "montoEjecutado" : 29.7713,
+      "ejecutadoPorcentaje" : 3.33
+    }, {
+      "id" : 37,
+      "name" : "Acciones para la Provision de Tierras para el Habitat Social",
+      "montoPresupuestado" : 696.7185,
+      "montoEjecutado" : 9.6616,
+      "ejecutadoPorcentaje" : 1.39
+    }, {
+      "id" : 88,
+      "name" : "Apoyo para el Desarrollo de la Infraestructura Universitaria",
+      "montoPresupuestado" : 672.2997,
+      "montoEjecutado" : 0.2683,
+      "ejecutadoPorcentaje" : 0.04
+    }, {
+      "id" : 73,
+      "name" : "Recursos Hidricos",
+      "montoPresupuestado" : 424.4958,
+      "montoEjecutado" : 7.4219,
+      "ejecutadoPorcentaje" : 1.75
+    }, {
+      "id" : 17,
+      "name" : "Cooperacion, Asistencia Tecnica y Capacitacion a Municipios",
+      "montoPresupuestado" : 419.602,
+      "montoEjecutado" : 3.3161,
+      "ejecutadoPorcentaje" : 0.79
+    }, {
+      "id" : 86,
+      "name" : "Apoyo para el Dessarrollo de Infraestructura Urbana en Munic",
+      "montoPresupuestado" : 205.8779,
+      "montoEjecutado" : 0.2074,
+      "ejecutadoPorcentaje" : 0.1
+    }, {
+      "id" : 16,
+      "name" : "Fomento e Impulso al Desarrollo del Sistema Democratico",
+      "montoPresupuestado" : 157.721,
+      "montoEjecutado" : 16.5263,
+      "ejecutadoPorcentaje" : 10.48
+    }, {
+      "id" : 26,
+      "name" : "Conservacion y Custodia de los Documentos de la Nacion",
+      "montoPresupuestado" : 133.2018,
+      "montoEjecutado" : 1.3784,
+      "ejecutadoPorcentaje" : 1.03
+    }, {
+      "id" : 10,
+      "name" : "Actividades Comunes a los Programas de Vivienda",
+      "montoPresupuestado" : 108.7596,
+      "montoEjecutado" : 25.1947,
+      "ejecutadoPorcentaje" : 23.17
+    }, {
+      "id" : 7,
+      "name" : "Actividades Comunes a los Programas de Obras Publicas",
+      "montoPresupuestado" : 49.8124,
+      "montoEjecutado" : 12.2207,
+      "ejecutadoPorcentaje" : 24.53
+    }, {
+      "id" : 66,
+      "name" : "Prevencion Sismica",
+      "montoPresupuestado" : 45.685,
+      "montoEjecutado" : 7.3787,
+      "ejecutadoPorcentaje" : 16.15
+    }, {
+      "id" : 45,
+      "name" : "Administracion y Gestion del Complejo Terminal de Cargas",
+      "montoPresupuestado" : 38.812,
+      "montoEjecutado" : 2.4248,
+      "ejecutadoPorcentaje" : 6.25
+    }, {
+      "id" : 48,
+      "name" : "Relaciones con Provincias",
+      "montoPresupuestado" : 20.4222,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 25,
+      "name" : "Fortalecimiento de las Relaciones con la Comunidad",
+      "montoPresupuestado" : 12.297,
+      "montoEjecutado" : 2.7008,
+      "ejecutadoPorcentaje" : 21.96
+    } ]
+  }, {
+    "name" : "Policía Federal Argentina",
+    "id" : 326,
+    "children" : [ {
+      "id" : 29,
+      "name" : "Seguridad Metropolitana",
+      "montoPresupuestado" : 11384.2861,
+      "montoEjecutado" : 2276.8152,
+      "ejecutadoPorcentaje" : 20.0
+    }, {
+      "id" : 28,
+      "name" : "Seguridad Federal",
+      "montoPresupuestado" : 4257.1014,
+      "montoEjecutado" : 974.5448,
+      "ejecutadoPorcentaje" : 22.89
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 4111.8705,
+      "montoEjecutado" : 817.192,
+      "ejecutadoPorcentaje" : 19.87
+    }, {
+      "id" : 23,
+      "name" : "Formacion y Capacitacion de la Policia Federal Argentina",
+      "montoPresupuestado" : 1229.693,
+      "montoEjecutado" : 230.1689,
+      "ejecutadoPorcentaje" : 18.72
+    }, {
+      "id" : 30,
+      "name" : "Servicio de Bomberos",
+      "montoPresupuestado" : 1183.628,
+      "montoEjecutado" : 258.6764,
+      "ejecutadoPorcentaje" : 21.85
+    }, {
+      "id" : 22,
+      "name" : "Asistencia Sanitaria de la Policia Federal Argentina",
+      "montoPresupuestado" : 1053.754,
+      "montoEjecutado" : 257.9914,
+      "ejecutadoPorcentaje" : 24.48
+    } ]
+  }, {
+    "name" : "Ministerio de Salud",
+    "id" : 310,
+    "children" : [ {
+      "id" : 36,
+      "name" : "At. Medica a los Beneficiarios de Pensiones no Contributivas",
+      "montoPresupuestado" : 7903.1746,
+      "montoEjecutado" : 1297.4112,
+      "ejecutadoPorcentaje" : 16.42
+    }, {
+      "id" : 17,
+      "name" : "Atencion de la Madre y el Niño",
+      "montoPresupuestado" : 3966.0598,
+      "montoEjecutado" : 120.6454,
+      "ejecutadoPorcentaje" : 3.04
+    }, {
+      "id" : 20,
+      "name" : "Prevencion y Control de Enfermedades Inmunoprevenibles",
+      "montoPresupuestado" : 3480.6572,
+      "montoEjecutado" : 77.8538,
+      "ejecutadoPorcentaje" : 2.24
+    }, {
+      "id" : 99,
+      "name" : "Erogaciones Figurativas y Transferencias Varias",
+      "montoPresupuestado" : 3169.4571,
+      "montoEjecutado" : 0.4913,
+      "ejecutadoPorcentaje" : 0.02
+    }, {
+      "id" : 22,
+      "name" : "Lucha Contra el SIDA y Enfermedades de Transmision Sexual",
+      "montoPresupuestado" : 1458.4683,
+      "montoEjecutado" : 293.2548,
+      "ejecutadoPorcentaje" : 20.11
+    }, {
+      "id" : 29,
+      "name" : "Reforma del Sector Salud (BID 1903/OC-AR y 2788/OC-AR)",
+      "montoPresupuestado" : 1164.1148,
+      "montoEjecutado" : 59.355,
+      "ejecutadoPorcentaje" : 5.1
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 1110.562,
+      "montoEjecutado" : 262.5613,
+      "ejecutadoPorcentaje" : 23.64
+    }, {
+      "id" : 39,
+      "name" : "Desarrollo Estrategias en Salud Familiar y Comunitaria",
+      "montoPresupuestado" : 1102.9067,
+      "montoEjecutado" : 123.6372,
+      "ejecutadoPorcentaje" : 11.21
+    }, {
+      "id" : 24,
+      "name" : "Deteccion y Tratamiento de Enfermedades Cronicas y Factores de Riesgo para la Salud",
+      "montoPresupuestado" : 737.6675,
+      "montoEjecutado" : 8.8883,
+      "ejecutadoPorcentaje" : 1.2
+    }, {
+      "id" : 18,
+      "name" : "Formacion de Recursos Humanos Sanitarios y Asistenciales",
+      "montoPresupuestado" : 483.189,
+      "montoEjecutado" : 96.7691,
+      "ejecutadoPorcentaje" : 20.03
+    }, {
+      "id" : 38,
+      "name" : "Funciones Esenciales de Salud Publica (BIRF 7993-AR)",
+      "montoPresupuestado" : 440.9247,
+      "montoEjecutado" : 49.1764,
+      "ejecutadoPorcentaje" : 11.15
+    }, {
+      "id" : 41,
+      "name" : "Atencion Sanitaria en el Territorio",
+      "montoPresupuestado" : 433.0389,
+      "montoEjecutado" : 6.8102,
+      "ejecutadoPorcentaje" : 1.57
+    }, {
+      "id" : 37,
+      "name" : "Prevencion y Control de Enfermedades Endemicas",
+      "montoPresupuestado" : 284.1196,
+      "montoEjecutado" : 20.9393,
+      "ejecutadoPorcentaje" : 7.37
+    }, {
+      "id" : 16,
+      "name" : "Apoyo al Desarrollo de la Atencion Medica",
+      "montoPresupuestado" : 246.3091,
+      "montoEjecutado" : 0.9839,
+      "ejecutadoPorcentaje" : 0.4
+    }, {
+      "id" : 45,
+      "name" : "Prevencion y Control de Enfermedades Cronicas y Riesgos para la Salud",
+      "montoPresupuestado" : 229.8034,
+      "montoEjecutado" : 19.8369,
+      "ejecutadoPorcentaje" : 8.63
+    }, {
+      "id" : 44,
+      "name" : "Investigacion para la Prevencion y Control de Enfermedades Tropicales y Subtropicales",
+      "montoPresupuestado" : 203.1936,
+      "montoEjecutado" : 0.5368,
+      "ejecutadoPorcentaje" : 0.26
+    }, {
+      "id" : 21,
+      "name" : "Planificacion, Control, Regulacion y Fiscalizacion de la Politica de Salud",
+      "montoPresupuestado" : 181.2049,
+      "montoEjecutado" : 30.6678,
+      "ejecutadoPorcentaje" : 16.92
+    }, {
+      "id" : 19,
+      "name" : "Promocion y Articulacion de Relaciones Sanitarias Nacionales e Internacionales",
+      "montoPresupuestado" : 170.1063,
+      "montoEjecutado" : 6.1431,
+      "ejecutadoPorcentaje" : 3.61
+    }, {
+      "id" : 25,
+      "name" : "Desarrollo de la Salud Sexual y la Procreacion Responsable",
+      "montoPresupuestado" : 163.2391,
+      "montoEjecutado" : 0.6163,
+      "ejecutadoPorcentaje" : 0.38
+    }, {
+      "id" : 30,
+      "name" : "Fortalecimiento de la Capacidad del Sistema Publico de Salud",
+      "montoPresupuestado" : 138.3,
+      "montoEjecutado" : 0.5343,
+      "ejecutadoPorcentaje" : 0.39
+    }, {
+      "id" : 43,
+      "name" : "Investigacion para la Prevencion, Diagnostico y Tratamiento del Cancer",
+      "montoPresupuestado" : 99.4744,
+      "montoEjecutado" : 2.8247,
+      "ejecutadoPorcentaje" : 2.84
+    }, {
+      "id" : 42,
+      "name" : "Deteccion Temprana y Tratamiento de Patologias Especificas",
+      "montoPresupuestado" : 84.6471,
+      "montoEjecutado" : 0.4349,
+      "ejecutadoPorcentaje" : 0.51
+    }, {
+      "id" : 2,
+      "name" : "Actividades Comunes a los Programas  17, 20, 22, 24, 25, 26, 29, 36, 37, 38, 39, 40, 41, 42 y 45",
+      "montoPresupuestado" : 68.734,
+      "montoEjecutado" : 3.7267,
+      "ejecutadoPorcentaje" : 5.42
+    }, {
+      "id" : 3,
+      "name" : "Actividades Comunes a los Programas con Financiamiento Externo  17, 20, 22, 24, 25, 29, 30, 37 y 38",
+      "montoPresupuestado" : 63.372,
+      "montoEjecutado" : 6.7506,
+      "ejecutadoPorcentaje" : 10.65
+    }, {
+      "id" : 5,
+      "name" : "Actividades Comunes a los Programas 16, 18 y 21",
+      "montoPresupuestado" : 32.9546,
+      "montoEjecutado" : 2.1788,
+      "ejecutadoPorcentaje" : 6.61
+    }, {
+      "id" : 40,
+      "name" : "Sanidad Escolar",
+      "montoPresupuestado" : 30.4316,
+      "montoEjecutado" : 0.0023,
+      "ejecutadoPorcentaje" : 0.01
+    }, {
+      "id" : 26,
+      "name" : "Cobertura de Emergencias Sanitarias",
+      "montoPresupuestado" : 24.5187,
+      "montoEjecutado" : 2.8781,
+      "ejecutadoPorcentaje" : 11.74
+    }, {
+      "id" : 46,
+      "name" : "Investigacion y Desarrollo de los Laboratorios de Produccion Publica",
+      "montoPresupuestado" : 5.0339,
+      "montoEjecutado" : 0.0101,
+      "ejecutadoPorcentaje" : 0.2
+    }, {
+      "id" : 6,
+      "name" : "Actividades Comunes a los Programas 17, 25, 29, 30, 36, 40 y 42",
+      "montoPresupuestado" : 0.0,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    } ]
+  }, {
+    "name" : "Prefectura Naval Argentina",
+    "id" : 380,
+    "children" : [ {
+      "id" : 31,
+      "name" : "Policia de Seguridad de la Navegacion",
+      "montoPresupuestado" : 7357.2123,
+      "montoEjecutado" : 1531.5396,
+      "ejecutadoPorcentaje" : 20.82
+    }, {
+      "id" : 32,
+      "name" : "Pasividades de la Prefectura Naval Argentina",
+      "montoPresupuestado" : 1711.7494,
+      "montoEjecutado" : 383.0519,
+      "ejecutadoPorcentaje" : 22.38
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 1326.3261,
+      "montoEjecutado" : 268.3743,
+      "ejecutadoPorcentaje" : 20.23
+    }, {
+      "id" : 37,
+      "name" : "Formacion y Capacitacion Profesional de la Prefectura Naval Argentina",
+      "montoPresupuestado" : 766.6026,
+      "montoEjecutado" : 193.5203,
+      "ejecutadoPorcentaje" : 25.24
+    }, {
+      "id" : 40,
+      "name" : "Operaciones Complementarias de Seguridad Interior",
+      "montoPresupuestado" : 633.5343,
+      "montoEjecutado" : 121.5124,
+      "ejecutadoPorcentaje" : 19.18
+    }, {
+      "id" : 36,
+      "name" : "Atencion Sanitaria de la Prefectura Naval Argentina",
+      "montoPresupuestado" : 319.4119,
+      "montoEjecutado" : 71.3862,
+      "ejecutadoPorcentaje" : 22.35
+    }, {
+      "id" : 41,
+      "name" : "Servicio de Informatica y Comunicaciones para la Navegacion",
+      "montoPresupuestado" : 224.8159,
+      "montoEjecutado" : 49.4383,
+      "ejecutadoPorcentaje" : 21.99
+    }, {
+      "id" : 39,
+      "name" : "Control y Servicio Tecnico de Seguridad de la Navegacion",
+      "montoPresupuestado" : 121.2038,
+      "montoEjecutado" : 27.0479,
+      "ejecutadoPorcentaje" : 22.32
+    } ]
+  }, {
+    "name" : "Gendarmería Nacional",
+    "id" : 375,
+    "children" : [ {
+      "id" : 48,
+      "name" : "Seguridad en Fronteras",
+      "montoPresupuestado" : 7333.7694,
+      "montoEjecutado" : 2007.6283,
+      "ejecutadoPorcentaje" : 27.38
+    }, {
+      "id" : 49,
+      "name" : "Operaciones Complementarias de Seguridad Interior",
+      "montoPresupuestado" : 5940.8494,
+      "montoEjecutado" : 657.236,
+      "ejecutadoPorcentaje" : 11.06
+    }, {
+      "id" : 43,
+      "name" : "Atencion de Pasividades de la Gendarmeria Nacional",
+      "montoPresupuestado" : 2595.068,
+      "montoEjecutado" : 559.933,
+      "ejecutadoPorcentaje" : 21.58
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 2047.0429,
+      "montoEjecutado" : 604.5693,
+      "ejecutadoPorcentaje" : 29.53
+    }, {
+      "id" : 41,
+      "name" : "Formacion y Capacitacion de la Gendarmeria Nacional",
+      "montoPresupuestado" : 1923.5505,
+      "montoEjecutado" : 507.5726,
+      "ejecutadoPorcentaje" : 26.39
+    }, {
+      "id" : 42,
+      "name" : "Asistencia Sanitaria de la Gendarmeria Nacional",
+      "montoPresupuestado" : 784.9299,
+      "montoEjecutado" : 73.6063,
+      "ejecutadoPorcentaje" : 9.38
+    }, {
+      "id" : 44,
+      "name" : "Misiones Humanitarias y de Paz para Organismos Internacionales",
+      "montoPresupuestado" : 42.1178,
+      "montoEjecutado" : 0.5095,
+      "ejecutadoPorcentaje" : 1.21
+    } ]
+  }, {
+    "name" : "Consejo Nacional de Investigaciones Científicas y Técnicas",
+    "id" : 103,
+    "children" : [ {
+      "id" : 16,
+      "name" : "Formacion de Recursos Humanos y Promocion Cientifica y Tecnologica",
+      "montoPresupuestado" : 6475.7962,
+      "montoEjecutado" : 1532.1752,
+      "ejecutadoPorcentaje" : 23.66
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 370.8863,
+      "montoEjecutado" : 88.3492,
+      "ejecutadoPorcentaje" : 23.82
+    }, {
+      "id" : 17,
+      "name" : "Exhibicion Publica e Investigacion en Ciencias Naturales de la Republica Argentina",
+      "montoPresupuestado" : 36.0681,
+      "montoEjecutado" : 4.6481,
+      "ejecutadoPorcentaje" : 12.89
+    } ]
+  }, {
+    "name" : "Estado Mayor General de la Armada",
+    "id" : 379,
+    "children" : [ {
+      "id" : 16,
+      "name" : "Alistamiento Operacional",
+      "montoPresupuestado" : 6428.615,
+      "montoEjecutado" : 1189.6662,
+      "ejecutadoPorcentaje" : 18.51
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 1863.2932,
+      "montoEjecutado" : 434.874,
+      "ejecutadoPorcentaje" : 23.34
+    }, {
+      "id" : 18,
+      "name" : "Formacion y Capacitacion",
+      "montoPresupuestado" : 1750.6834,
+      "montoEjecutado" : 327.4246,
+      "ejecutadoPorcentaje" : 18.7
+    }, {
+      "id" : 17,
+      "name" : "Sanidad Naval",
+      "montoPresupuestado" : 846.6636,
+      "montoEjecutado" : 222.7737,
+      "ejecutadoPorcentaje" : 26.31
+    }, {
+      "id" : 19,
+      "name" : "Hidrografia Naval",
+      "montoPresupuestado" : 114.0957,
+      "montoEjecutado" : 42.1552,
+      "ejecutadoPorcentaje" : 36.95
+    }, {
+      "id" : 20,
+      "name" : "Transportes Navales",
+      "montoPresupuestado" : 96.7953,
+      "montoEjecutado" : 19.6776,
+      "ejecutadoPorcentaje" : 20.33
+    }, {
+      "id" : 24,
+      "name" : "Sostenimiento Operacional",
+      "montoPresupuestado" : 11.7581,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    } ]
+  }, {
+    "name" : "Consejo de la Magistratura",
+    "id" : 320,
+    "children" : [ {
+      "id" : 24,
+      "name" : "Justicia Federal",
+      "montoPresupuestado" : 6169.4189,
+      "montoEjecutado" : 981.5062,
+      "ejecutadoPorcentaje" : 15.91
+    }, {
+      "id" : 23,
+      "name" : "Justicia Ordinaria de la Ciudad Autonoma de Buenos Aires",
+      "montoPresupuestado" : 3997.4535,
+      "montoEjecutado" : 546.7807,
+      "ejecutadoPorcentaje" : 13.68
+    }, {
+      "id" : 1,
+      "name" : "Actividades Centrales",
+      "montoPresupuestado" : 3518.7718,
+      "montoEjecutado" : 1351.8357,
+      "ejecutadoPorcentaje" : 38.42
+    }, {
+      "id" : 22,
+      "name" : "Justicia de Casacion",
+      "montoPresupuestado" : 354.9828,
+      "montoEjecutado" : 27.4844,
+      "ejecutadoPorcentaje" : 7.74
+    }, {
+      "id" : 26,
+      "name" : "Atencion de Pasividades",
+      "montoPresupuestado" : 44.921,
+      "montoEjecutado" : 11.2293,
+      "ejecutadoPorcentaje" : 25.0
+    } ]
+  }, {
+    "name" : "Senado de la Nación",
+    "id" : 312,
+    "children" : [ {
+      "id" : 16,
+      "name" : "Formacion y Sancion de Leyes Nacionales",
+      "montoPresupuestado" : 5051.022,
+      "montoEjecutado" : 876.4387,
+      "ejecutadoPorcentaje" : 17.35
+    }, {
+      "id" : 27,
+      "name" : "Monitoreo e Implementacion del Nuevo Codigo Procesal Penal de la Nacion",
+      "montoPresupuestado" : 25.0,
+      "montoEjecutado" : 2.0835,
+      "ejecutadoPorcentaje" : 8.33
+    }, {
+      "id" : 32,
+      "name" : "Control Parlamentario de Los Fondos de la Seguridad Social",
+      "montoPresupuestado" : 10.722,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 25,
+      "name" : "Control Parlamentario sobre el Funcionamiento del Sistema de Inteligencia",
+      "montoPresupuestado" : 10.6,
+      "montoEjecutado" : 0.8835,
+      "ejecutadoPorcentaje" : 8.33
+    }, {
+      "id" : 22,
+      "name" : "Revision de Cuentas Nacionales",
+      "montoPresupuestado" : 9.52,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 33,
+      "name" : "Promocion y Seguimiento de la Comunicacion Audiovisual",
+      "montoPresupuestado" : 8.0,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 31,
+      "name" : "Control Parlamentario de Seguimiento de Tramite Legislativo",
+      "montoPresupuestado" : 6.7,
+      "montoEjecutado" : 0.0,
+      "ejecutadoPorcentaje" : 0.0
+    }, {
+      "id" : 30,
+      "name" : "Fortalecimiento Institucional",
+      "montoPresupuestado" : 5.317,
+      "montoEjecutado" : 0.3,
+      "ejecutadoPorcentaje" : 5.64
+    } ]
+  } ]
+}

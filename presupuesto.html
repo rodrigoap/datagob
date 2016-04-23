@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<style>
+
+		body {
+		  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		  margin: auto;
+		  position: relative;
+		  width: 100%;
+		}
+
+		form {
+		  position: absolute;
+		  right: 10px;
+		  top: 10px;
+		}
+
+		.node {
+		  border: solid 1px white;
+		  font: 10px sans-serif;
+		  line-height: 12px;
+		  overflow: hidden;
+		  position: absolute;
+		  text-indent: 2px;
+		}
+
+		#tooltip {
+			border: solid 2px black;
+		  font: 10px sans-serif;
+		  line-height: 12px;
+		  overflow: hidden;
+		  position: absolute;
+		  text-indent: 2px;
+			bbackground-color: white;
+			padding: 5px 5px 5px 5px;
+		}
+
+		#tooltipTitle {
+			font: 12px sans-serif;
+			font-weight: bold;
+		}
+
+		</style>
+		<script>
+			function formatMonto(monto) {
+				return monto.toString().replace(".", ",");
+			}
+				function getPos(el) {
+			    for (var lx=0, ly=0;
+			         el != null;
+			         lx += el.offsetLeft, ly += el.offsetTop, el = el.offsetParent);
+			    return {x: lx,y: ly};
+				}
+				function showTooltip(elem) {
+					var tt = document.getElementById("tooltip");
+					var offsets = getPos(elem);
+					var top = offsets.y;
+					var left = offsets.x;
+					var nodeData = elem.__data__;
+					tt.style.background = color(nodeData.parent.name);
+					tt.innerHTML = "<div id='tooltipTitle'>" + nodeData.parent.name + "</div>" +
+						"<div id='tooltipSubtitle'>" + nodeData.name + "</div><br>" +
+						"<div id='tooltipPresup'>Presupuestado: " + formatMonto(nodeData.montoPresupuestado) + "</div>" +
+						"<div id='tooltipEjec'>Ejecutado: " + formatMonto(nodeData.montoEjecutado) + "</div>" +
+						"<div id='tooltipEjecPorc'>% Ejecutado: " + formatMonto(nodeData.ejecutadoPorcentaje) + "</div>"
+						;
+					tt.style.position = "absolute";
+					tt.style.left = left + "px";
+					tt.style.top = top + "px";
+					tt.style.display = "block";
+				}
+				function hideTooltip(elem) {
+					var tt = document.getElementById("tooltip");
+					tt.style.display = "none";
+					tt.innerHTML = "";
+				}
+		</script>
+	</head>
+	<body>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-89267-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<div style="position:absolute;left:1px;top:1px;z-index:999;font-size:13px;">
+      <strong>beta</strong> | fuente: datos.gob.ar | <a href="http://github.com/rodrigoap/datagob">github.com/rodrigoap/datagob</a> | Datos al 17-04-2016
+    </div>
+		<form>
+		  <label><input id="modePres" type="radio" name="mode" value="size" checked>Presupuestado</label>
+		  <label><input type="radio" name="mode" value="count">Ejecutado</label>
+			<label><input type="radio" name="mode" value="percentEjec">% Ejecutado</label>
+		</form>
+		<script src="//d3js.org/d3.v3.min.js"></script>
+		<script>
+		var mainWidth = window.innerWidth
+		|| document.documentElement.clientWidth
+		|| document.body.clientWidth;
+
+		var mainHeight = window.innerHeight
+		|| document.documentElement.clientHeight
+		|| document.body.clientHeight;
+
+		var margin = {top: 40, right: 10, bottom: 10, left: 10},
+		    width = mainWidth - margin.left - margin.right,
+		    height = mainHeight - margin.top - margin.bottom;
+
+		var color = d3.scale.category20();
+
+		var treemap = d3.layout.treemap()
+		    .size([width, height])
+		    .sticky(true)
+		    .value(function(d) { return d.montoPresupuestado; });
+
+		var div = d3.select("body").append("div")
+		    .style("position", "relative")
+		    .style("width", (width + margin.left + margin.right) + "px")
+		    .style("height", (height + margin.top + margin.bottom) + "px")
+		    .style("left", margin.left + "px")
+		    .style("top", margin.top + "px");
+
+		d3.json("data/presupuesto/20160417.json", function(error, root) {
+		  if (error) throw error;
+
+		  var node = div.datum(root).selectAll(".node")
+		      .data(treemap.nodes)
+		    	.enter().append("div")
+		      .attr("class", "node")
+					.attr("onMouseOver", "showTooltip(this)")
+					.attr("onmouseout", "hideTooltip(this)")
+					.attr("title", setTitle)
+		      .call(position)
+		      .style("background", function(d) { return d.children ? color(d.name) : null; })
+		      .text(function(d) { return d.children ? null : d.name; });
+
+		  d3.selectAll("input").on("change", function change() {
+		    var value = 0;
+				if (this.value === "count")
+		        value = function(d) { return d.montoEjecutado; };
+				else if (this.value === "size")
+		        value = function(d) { return d.montoPresupuestado; };
+				else if (this.value === "percentEjec")
+				    value = function(d) { return d.ejecutadoPorcentaje; };
+
+		  node.data(treemap.value(value).nodes)
+		      .transition()
+		      .duration(1500)
+		      .call(position);
+		  });
+		});
+
+		function position() {
+		  this.style("left", function(d) { return d.x + "px"; })
+		      .style("top", function(d) { return d.y + "px"; })
+		      .style("width", function(d) { return Math.max(0, d.dx - 1) + "px"; })
+		      .style("height", function(d) { return Math.max(0, d.dy - 1) + "px"; });
+		}
+		function setTitle(d) {
+			var n = d.name;
+			if (d.parent) {
+				n = d.parent.name + "|" + n;
+			}
+			return n;
+		}
+
+		</script>
+		<div id="tooltip" style="display:none">Test</div>
+	</body>
+</html>
